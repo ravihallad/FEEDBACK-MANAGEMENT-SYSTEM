@@ -8,3 +8,5 @@ A) HOME PAGE
 
 3) STUDENT LOGIN
    ![image](https://github.com/ravihallad/FEEDBACK-MANAGEMENT-SYSTEM/assets/78427451/e9a7b9f4-f5e2-48e9-b0cd-1ea4ee2c91ec)
+DOCUMENTS
+[feedbackppt1.pptx](https://github.com/user-attachments/files/15883083/feedbackppt1.pptx)
